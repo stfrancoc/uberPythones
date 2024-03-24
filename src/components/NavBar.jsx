@@ -9,7 +9,7 @@ const NavBar = () => {
             <ul className="flex justify-around w-2/3 sm:w-1/2">
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/about">About</Link></li>
-                <li>Requirements</li>
+                <li><Link to="/requirements">Requirements</Link></li>
             </ul>
         </nav>
         </>

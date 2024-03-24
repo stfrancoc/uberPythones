@@ -37,7 +37,7 @@ La historia de Uber no ha sido del todo buena, como lo atestiguan los diferentes
 En 2017, los accionistas de Uber forzaron la renuncia de su CEO debido a diferentes problemas y escándalos, como acusaciones de acoso sexual, malas prácticas empresariales, discusiones sobre la bajada de tarifas con los conductores de la compañía y problemas relacionados con su activa vida social. Durante la pandemia, la empresa se vio gravemente afectada por la crisis del COVID-19 en varios aspectos, como la caída del uso del servicio en un 70 al 90% y la suspensión de su servicio UberPool para viajes compartidos.<br/><br/>
 Pero no todo fue malo durante la pandemia, también se aumentó el uso de UberEats y UberFreight, creciendo un 52% y 55% respectivamente. A pesar de la pérdida de 2.946 millones de dólares y el despido de 3.700 empleados, Uber afirma que se ha ido recuperando poco a poco, aunque todavía sigue teniendo problemas con la legislación de varios países, y un juez de California los demandó por tener a los conductores clasificados como contratistas y no como empleados. Actualmente, Uber está presente en más de 70 países y 600 ciudades.<br/><br/></p>
             </div>
-            <div className="w-10/12">
+            <div className="w-10/12 mb-5">
             <img className="mt-12 scale-125 sm:scale-110 mb-8 sm:mb-1" src={how1} alt="how to use 1"/>
             <img className="scale-125 sm:scale-110"  src={how2} alt="how to use 2"/>
             <img className="scale-125 sm:scale-110"  src={how3} alt="how to use 3"/>        
