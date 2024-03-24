@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/uberPythones/static/css/main.196e9ffa.css",
+    "main.js": "/uberPythones/static/js/main.b37e7bea.js",
+    "static/js/453.a36067a0.chunk.js": "/uberPythones/static/js/453.a36067a0.chunk.js",
+    "static/media/RUber.png": "/uberPythones/static/media/RUber.ffa993fa2dd69d5e139d.png",
+    "static/media/howtouse1.png": "/uberPythones/static/media/howtouse1.e719c25dcf57131ba0a5.png",
+    "static/media/banner.jpg": "/uberPythones/static/media/banner.3327316fcb68676fee75.jpg",
+    "static/media/howtouse2.png": "/uberPythones/static/media/howtouse2.14369e052598d6385e3b.png",
+    "static/media/howtouse3.png": "/uberPythones/static/media/howtouse3.a0ef4616259272e20a11.png",
+    "index.html": "/uberPythones/index.html",
+    "main.196e9ffa.css.map": "/uberPythones/static/css/main.196e9ffa.css.map",
+    "main.b37e7bea.js.map": "/uberPythones/static/js/main.b37e7bea.js.map",
+    "453.a36067a0.chunk.js.map": "/uberPythones/static/js/453.a36067a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196e9ffa.css",
+    "static/js/main.b37e7bea.js"
+  ]
+}
